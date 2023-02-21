@@ -24,3 +24,5 @@ It contains methods to deal cards, convert the cards' attributes to strings with
 8. The House then hits until it has a total hand value of 17 or more, or stands if it already has the required value.
 9. The total hand values are compared to determine the winner and the winner receives the wager.
 10. The game continues until either the player or House is out of chips.
+
+![Showcase](https://github.com/DavidYangGit/Blackjack/blob/main/portfolio3.jpg)
